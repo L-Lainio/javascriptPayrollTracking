@@ -141,12 +141,7 @@ You are required to submit the following for review:
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
 
 - - -
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2026 and Beyond 💗
 
 ## Questions
 
-Have additional questions? Click the links below to reach me through my GitHub account or Email address.
-
-[Link to Github](https://github.com/L-Lainio)
-
-<a href="mailto:lora.lainio.it@gmail.com">lora.lainio.it@gmail.com</a>
